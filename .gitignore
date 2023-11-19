@@ -1,0 +1,5 @@
+/build/
+/dist/
+/__pycache__/
+/sapphirus.egg-info/
+.vscode/
