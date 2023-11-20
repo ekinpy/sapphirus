@@ -1,5 +1,9 @@
 ![Logo](https://raw.githubusercontent.com/ekinpy/sapphirus/main/sapphirus.png)
 
+[![Downloads](https://static.pepy.tech/badge/sapphirus)](https://pepy.tech/project/sapphirus)
+[![Downloads](https://static.pepy.tech/badge/sapphirus/month)](https://pepy.tech/project/sapphirus)
+[![Downloads](https://static.pepy.tech/badge/sapphirus/week)](https://pepy.tech/project/sapphirus)
+
 Transform your terminal into a canvas of colors with **Sapphirus**.
 
 `sapphirus` module takes its name from the Latin word _sapphirus_, which means sapphire in English.

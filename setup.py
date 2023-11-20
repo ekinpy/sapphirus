@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as file:
 
 setup(
     name="sapphirus",
-    version="0.0.1",
+    version="0.1.0",
     description="Transform your terminal into a canvas of colors with Sapphirus.",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
